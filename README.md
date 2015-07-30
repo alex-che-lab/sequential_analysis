@@ -1,2 +1,2 @@
 # sequential_analysis
-sequentual criteria
+sequential criteria
